@@ -6,7 +6,8 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace GameCoreUnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class MovingTest
+    
     {
         [TestMethod]
         public void ChangeDirectionColckwise()
